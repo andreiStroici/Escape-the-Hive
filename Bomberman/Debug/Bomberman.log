@@ -1,0 +1,61 @@
+﻿  AssetMananger.cpp
+  Collision.cpp
+  Game.cpp
+E:\Anul II\Semestrul I\POO\Game\Bomberman\Game.cpp(142,72): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+E:\Anul II\Semestrul I\POO\Game\Bomberman\Game.cpp(143,72): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+E:\Anul II\Semestrul I\POO\Game\Bomberman\Game.cpp(181,71): warning C4244: '=': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+E:\Anul II\Semestrul I\POO\Game\Bomberman\Game.cpp(182,71): warning C4244: '=': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+E:\Anul II\Semestrul I\POO\Game\Bomberman\Game.cpp(231,84): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+E:\Anul II\Semestrul I\POO\Game\Bomberman\Game.cpp(231,77): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+E:\Anul II\Semestrul I\POO\Game\Bomberman\Game.cpp(241,87): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+E:\Anul II\Semestrul I\POO\Game\Bomberman\Game.cpp(241,80): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+E:\Anul II\Semestrul I\POO\Game\Bomberman\ESC.h(142,33): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+E:\Anul II\Semestrul I\POO\Game\Bomberman\Game.cpp(104,11): message : see reference to function template instantiation 'T &Entity::addComponent<TransformComponent,int,int>(int &&,int &&)' being compiled
+          with
+          [
+              T=TransformComponent
+          ]
+E:\Anul II\Semestrul I\POO\Game\Bomberman\ESC.h(142,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Anul II\Semestrul I\POO\Game\Bomberman\Game.cpp(346,8): message : see reference to function template instantiation 'T &Entity::addComponent<TransformComponent,int&,int&>(int &,int &)' being compiled
+          with
+          [
+              T=TransformComponent
+          ]
+  Generating Code...
+  Bomberman.vcxproj -> E:\Anul II\Semestrul I\POO\Game\Bomberman\Debug\Bomberman.exe
